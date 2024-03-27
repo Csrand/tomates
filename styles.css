@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background: rgb(192, 206, 70);
+    
+}
+img{
+    float:left ;
+    height:120px;
+    width: 120px;
+    border: solid 1px;
+    border-radius: 25px;
+    border-color: red;
+    
+}
+.header h1{
+    border-radius: 5px;
+    border:solid 1px;
+    font-size: 40px;
+    color: rgb(41, 175, 41);
+}
+main{
+    align-content: center;
+}
+.yel{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+h4{
+    color:red;
+}
+.maca{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
